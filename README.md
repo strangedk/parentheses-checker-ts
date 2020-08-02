@@ -1,3 +1,5 @@
-# typescript-rp9omg
+# Simple parentheses sequence checker
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-rp9omg)
+Language: TypeScript.
+Written with generator, which iterate string and use stack to remember correct sequence.
+Results is output in the console.
